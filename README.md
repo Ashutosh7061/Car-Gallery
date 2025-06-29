@@ -19,6 +19,8 @@ This website is designed to present a car showroom's offerings in a visually app
 
 
 ## 📁 Project Structure
+
+```text
 car-showroom-website/
 │
 ├── index.html          # Main HTML file (Home page)
@@ -29,3 +31,4 @@ car-showroom-website/
 │   └── logo.png
 ├── README.md           # Project documentation
 └── LICENSE             # License file (MIT)
+
