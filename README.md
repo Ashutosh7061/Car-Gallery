@@ -32,3 +32,9 @@ car-showroom-website/
 ├── README.md           # Project documentation
 └── LICENSE             # License file (MIT)
 
+## 🛠️ Technologies Used
+
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout
+
+> Note: This website is **not responsive** and is best viewed on desktop screens.
