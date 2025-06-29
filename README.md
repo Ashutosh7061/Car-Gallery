@@ -25,7 +25,7 @@ car-showroom-website/
 │
 ├── index.html          # Main HTML file (Home page)
 ├── style.css           # CSS file for layout and design
-├── images/             # Folder containing car images
+├── images/             # Folder containing car and other images
 │   ├── car1.jpg
 │   ├── car2.jpg
 │   └── logo.png
