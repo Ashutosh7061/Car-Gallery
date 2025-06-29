@@ -16,3 +16,16 @@ This website is designed to present a car showroom's offerings in a visually app
 - "Latest Updates" section for showcasing news or announcements  
 - Simple and clean layout using only HTML and CSS  
 - Good color choices for visual appeal and readability  
+
+
+## 📁 Project Structure
+car-showroom-website/
+│
+├── index.html          # Main HTML file (Home page)
+├── style.css           # CSS file for layout and design
+├── images/             # Folder containing car images
+│   ├── car1.jpg
+│   ├── car2.jpg
+│   └── logo.png
+├── README.md           # Project documentation
+└── LICENSE             # License file (MIT)
