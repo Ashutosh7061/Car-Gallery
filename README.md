@@ -15,7 +15,15 @@ This website is designed to present a car showroom's offerings in a visually app
 - "Our Achievements" section to highlight milestones or awards  
 - "Latest Updates" section for showcasing news or announcements  
 - Simple and clean layout using only HTML and CSS  
-- Good color choices for visual appeal and readability  
+- Good color choices for visual appeal and readability
+
+ 
+ ## 🛠️ Technologies Used
+
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout
+
+> Note: This website is **not responsive** and is best viewed on desktop screens.
 
 
 ## 📁 Project Structure
@@ -32,9 +40,4 @@ car-showroom-website/
 ├── README.md           # Project documentation
 └── LICENSE             # License file (MIT)
 
-## 🛠️ Technologies Used
 
-- **HTML5** – Structure and content
-- **CSS3** – Styling and layout
-
-> Note: This website is **not responsive** and is best viewed on desktop screens.
